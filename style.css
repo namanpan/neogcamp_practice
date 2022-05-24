@@ -1,0 +1,81 @@
+.navi {
+    background-color: #21325E;
+    display: block;
+}
+
+.navi h1 {
+    padding-left: 1rem;
+    color: white;
+}
+
+.devep {
+    color: red;
+}
+
+.navi ul {
+    text-align: right;
+}
+
+.navi li {
+    display: inline-block;
+    color: white;
+    margin-right: 1rem;
+}
+
+.main h1 {
+    color: #395B64;
+    text-align: center;
+    margin-bottom: .5rem;
+}
+
+.name {
+    color: red;
+}
+
+.main h3 {
+    color: #313552;
+    text-align: center;
+    margin-top: .5rem;
+}
+
+.dev {
+    max-width: 30%;
+    margin-left: 35%;
+}
+
+.techno {
+    background-color: #B7CADB;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 2rem;
+}
+
+.pro {
+    background-color: #EEEEEE;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 2rem;
+}
+
+.blogs {
+    background-color: #B7CADB;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 2rem;
+}
+
+.foot h3 {
+    color: #084594;
+    text-align: center;
+}
+
+.foot ul {
+    text-align: center;
+}
+
+.foot li {
+    display: inline;
+    color: #084594;
+    font-weight: 600;
+    padding: 3rem;
+}
